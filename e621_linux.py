@@ -25,7 +25,7 @@ import math
 from xml.etree import ElementTree
 
 APP_PHP_INDEX = "e621.net/post/index.xml"
-APP_NAME = "e621"
+APP_NAME = "e621" 
 API_URL = 'https://' + APP_PHP_INDEX + '?page=dapi&s=post&q=index&limit=100&tags={0:s}&page={1:d}'
 
 SETTINGS_DIR = expanduser("~") + "/.e621-dl/"
