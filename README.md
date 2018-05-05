@@ -14,6 +14,6 @@ Features:
 
 Things to keep in mind:
 
-    This is my first time trying to make something with Python TkInter. Tkinter is a GUI library for Python that I use in this project. 
-
-    Updates for this will come out when things are fixed or features added. Keep a lookout on this repo for future updates.
+1. This is my first time trying to make something with Python TkInter. Tkinter is a GUI library for Python that I use in this project. It doesn't look great, but it's a start and it's fully functional. 
+2. Updates for this will come out when things are fixed or features added. Keep a lookout on this repo for future updates.
+3. The EXE for Windows was compiled using PyInstaller. Since PyInstaller doesn't ceritfy the EXE, Windows will warn you about the file. I'm working on how to sign EXE files. Sorry everyone D:
