@@ -18,3 +18,30 @@ Things to keep in mind:
 1. This is my first time trying to make something with Python TkInter. Tkinter is a GUI library for Python that I use in this project. It doesn't look great, but it's a start and it's fully functional. 
 2. Updates for this will come out when things are fixed or features added. Keep a lookout on this repo for future updates.
 3. The EXE for Windows was compiled using PyInstaller. Since PyInstaller doesn't ceritfy the EXE, Windows will warn you about the file. I'm working on how to sign EXE files. Sorry everyone D:
+
+How to set up Python3 Environment:
+
+  First off, make sure you have Python3 installed.
+
+  Windows
+    [Python 3.6](https://www.python.org/downloads/release/python-365/)
+
+  Linux
+  ```
+  sudo apt update
+  sudo apt install python3.6
+  ```
+
+  Next, install the Tk libraries for python.
+
+  Windows
+  ```
+  pip install Pillow
+  ```
+
+  Linux
+  ```
+  sudo apt update
+  sudo apt install python3-pil.imagetk
+  ```
+
