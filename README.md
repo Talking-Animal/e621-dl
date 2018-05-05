@@ -11,6 +11,7 @@ Features:
 - Cancel Download process.
 - Progress bar for both current file and total.
 - Specify how many posts to download.
+- Skips already downloaded files.
 
 Things to keep in mind:
 
